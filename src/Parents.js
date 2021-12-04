@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 const Parents = (props) => {
     return (
         <div>
-            <h1>hello {props.name}</h1>
+            <h1> Hello {props.name}</h1>
         </div>
     )
 }
